@@ -8,6 +8,8 @@ gem 'rails', '4.2.2'
 # Use SCSS for stylesheets
 gem 'devise'
 
+gem 'gravtastic'
+
 gem 'carrierwave'
 
 gem 'sass-rails', '~> 5.0'

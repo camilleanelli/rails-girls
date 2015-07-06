@@ -6,6 +6,7 @@ gem 'rails', '4.2.2'
 # Use sqlite3 as the database for Active Record
 
 # Use SCSS for stylesheets
+gem 'devise'
 
 gem 'carrierwave'
 
